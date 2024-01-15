@@ -14,7 +14,7 @@
 10. CPU Scheduing (HW3 Demo)
 11. Main Memory (NO LAB)
 12. Virtual Memory (HW4) 
-13. Storage,I/O (Recitation) 
+13. Storage,I/O (Memory Management) 
 14. File System (LAB: Recitation)
 15. Distributed Systems (LAB: HW4 Demo)
 
