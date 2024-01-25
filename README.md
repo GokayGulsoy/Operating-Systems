@@ -19,5 +19,3 @@
 15. Distributed Systems (LAB: HW4 Demo)
 
 Textbooks can be found on: [Course textbooks](/Textbooks)
-
-Course project can be found on: [Course Project](/Project)
