@@ -1,0 +1,24 @@
+1.
+mkdir Exercise_1
+cd Exercise_1
+touch text1.txt
+…
+ls -lr
+
+2.
+ls text[1-3].txt
+
+3.
+cd /etc
+wc -l *.conf
+
+4.
+ls *.conf | wc -l
+
+5.
+history | grep cd > /home/altug/out.txt
+
+6.
+grep -v "#" my_code.py > my_code_new.py
+
+
