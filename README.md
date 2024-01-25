@@ -18,6 +18,6 @@
 14. File System (LAB: Recitation)
 15. Distributed Systems (LAB: HW4 Demo)
 
-Textbooks can be found on: [Course textbooks](/Textbook1)
+Textbooks can be found on: [Course textbooks 1](/Textbook1)
 
-Textbooks can be found on: [Course textbooks](/Textbook2)
+Textbooks can be found on: [Course textbook 2](/Textbook2)
